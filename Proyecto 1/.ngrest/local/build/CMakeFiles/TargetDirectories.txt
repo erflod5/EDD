@@ -1,0 +1,5 @@
+/home/erik/pruebas/.ngrest/local/build/CMakeFiles/rebuild_cache.dir
+/home/erik/pruebas/.ngrest/local/build/CMakeFiles/edit_cache.dir
+/home/erik/pruebas/.ngrest/local/build/pruebas/CMakeFiles/rebuild_cache.dir
+/home/erik/pruebas/.ngrest/local/build/pruebas/CMakeFiles/pruebas.dir
+/home/erik/pruebas/.ngrest/local/build/pruebas/CMakeFiles/edit_cache.dir

@@ -1,0 +1,23 @@
+[  5%] Generating codegen/ServiceGroupImpl.h, codegen/ServiceGroupImpl.cpp, codegen/pruebasWrapper.h, codegen/pruebasWrapper.cpp
+Generating /home/erik/pruebas/.ngrest/local/build/pruebas/codegen/pruebasWrapper.h
+Generating /home/erik/pruebas/.ngrest/local/build/pruebas/codegen/pruebasWrapper.cpp
+Generating /home/erik/pruebas/.ngrest/local/build/pruebas/codegen/ServiceGroupImpl.h
+Generating /home/erik/pruebas/.ngrest/local/build/pruebas/codegen/ServiceGroupImpl.cpp
+Scanning dependencies of target pruebas
+[ 11%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaMes.cpp.o
+[ 17%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaSemana.cpp.o
+[ 23%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaSesiones.cpp.o
+[ 29%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaTratamiento.cpp.o
+[ 35%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaUsuarios.cpp.o
+[ 41%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/ListaYears.cpp.o
+[ 47%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/MatrizOrtogonal.cpp.o
+[ 52%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/NodoSemana.cpp.o
+[ 58%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/NodoTratamiendo.cpp.o
+[ 64%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/NodoUsuario.cpp.o
+[ 70%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/main.cpp.o
+[ 76%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/pruebas.cpp.o
+[ 82%] Building CXX object pruebas/CMakeFiles/pruebas.dir/src/toBase64.cpp.o
+[ 88%] Building CXX object pruebas/CMakeFiles/pruebas.dir/codegen/ServiceGroupImpl.cpp.o
+[ 94%] Building CXX object pruebas/CMakeFiles/pruebas.dir/codegen/pruebasWrapper.cpp.o
+[100%] Linking CXX shared module ../deploy/share/ngrest/services/pruebas.so
+[100%] Built target pruebas

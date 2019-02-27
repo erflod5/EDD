@@ -1,0 +1,10 @@
+generating project: pruebas
+
+service(s): pruebas
+
+serviceNs=[pruebas], svc=[pruebas], ns=[]
+
+Generating pruebas/src/pruebas.h
+Generating pruebas/src/pruebas.cpp
+Generating pruebas/CMakeLists.txt
+Generating CMakeLists.txt

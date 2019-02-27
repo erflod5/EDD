@@ -1,0 +1,149 @@
+# depslib dependency file v1.0
+1545008946 source:/home/erik/Documentos/EDD/Proyecto1/NodoUsuario.cpp
+	"NodoUsuario.h"
+
+1545167346 /home/erik/Documentos/EDD/Proyecto1/NodoUsuario.h
+	<string>
+
+1545344030 source:/home/erik/Documentos/EDD/Proyecto1/main.cpp
+	<stdio.h>
+	<iostream>
+	"ListaYears.h"
+	"ListaUsuarios.h"
+	"ListaTratamiento.h"
+
+1545264596 source:/home/erik/Documentos/EDD/Proyecto1/ListaUsuarios.cpp
+	"ListaUsuarios.h"
+	<iostream>
+
+1545167404 /home/erik/Documentos/EDD/Proyecto1/ListaUsuarios.h
+	"NodoUsuario.h"
+	<list>
+
+1545172733 source:/home/erik/Documentos/EDD/Proyecto1/ListaTratamiento.cpp
+	"ListaTratamiento.h"
+	<iostream>
+	<string>
+
+1545172256 /home/erik/Documentos/EDD/Proyecto1/ListaTratamiento.h
+	"NodoTratamiendo.h"
+
+1545017108 /home/erik/Documentos/EDD/Proyecto1/NodoTratamiendo.h
+	<string>
+
+1545171926 source:/home/erik/Documentos/EDD/Proyecto1/NodoTratamiendo.cpp
+	"NodoTratamiendo.h"
+
+1545343597 source:/home/erik/Documentos/EDD/Proyecto1/MatrizOrtogonal.cpp
+	"MatrizOrtogonal.h"
+	<iostream>
+
+1545343766 /home/erik/Documentos/EDD/Proyecto1/MatrizOrtogonal.h
+	<string>
+
+1545260157 source:/home/erik/Documentos/EDD/Proyecto1/ListaSemana.cpp
+	"ListaSemana.h"
+	<iostream>
+
+1545255050 /home/erik/Documentos/EDD/Proyecto1/ListaSemana.h
+	"MatrizOrtogonal.h"
+
+1545194484 source:/home/erik/Documentos/EDD/Proyecto1/NodoSemana.cpp
+	"NodoSemana.h"
+
+1545194361 /home/erik/Documentos/EDD/Proyecto1/NodoSemana.h
+	"MatrizOrtogonal.h"
+
+1545260313 source:/home/erik/Documentos/EDD/Proyecto1/ListaMes.cpp
+	"ListaMes.h"
+	<iostream>
+
+1545258571 /home/erik/Documentos/EDD/Proyecto1/ListaMes.h
+	<string>
+	"ListaSemana.h"
+
+1545258288 source:/home/erik/Documentos/EDD/Proyecto1/ListaYears.cpp
+	"ListaYears.h"
+	<iostream>
+
+1545256294 /home/erik/Documentos/EDD/Proyecto1/ListaYears.h
+	"ListaMes.h"
+
+1545666503 source:/home/erik/Documentos/pruebas/pruebas/src/ListaMes.cpp
+	"ListaMes.h"
+	<iostream>
+
+1545666473 /home/erik/Documentos/pruebas/pruebas/src/ListaMes.h
+	<string>
+	"ListaSemana.h"
+
+1545666924 /home/erik/Documentos/pruebas/pruebas/src/ListaSemana.h
+	"MatrizOrtogonal.h"
+
+1545544901 /home/erik/Documentos/pruebas/pruebas/src/MatrizOrtogonal.h
+	<string>
+
+1545666942 source:/home/erik/Documentos/pruebas/pruebas/src/ListaSemana.cpp
+	"ListaSemana.h"
+	<iostream>
+
+1545614924 source:/home/erik/Documentos/pruebas/pruebas/src/ListaUsuarios.cpp
+	"ListaUsuarios.h"
+	<iostream>
+
+1545544971 /home/erik/Documentos/pruebas/pruebas/src/ListaUsuarios.h
+	"NodoUsuario.h"
+	<list>
+
+1545167346 /home/erik/Documentos/pruebas/pruebas/src/NodoUsuario.h
+	<string>
+
+1545258288 source:/home/erik/Documentos/pruebas/pruebas/src/ListaYears.cpp
+	"ListaYears.h"
+	<iostream>
+
+1545344252 /home/erik/Documentos/pruebas/pruebas/src/ListaYears.h
+	"ListaMes.h"
+
+1545666872 source:/home/erik/Documentos/pruebas/pruebas/src/main.cpp
+	<stdio.h>
+	<iostream>
+	"ListaYears.h"
+	"ListaUsuarios.h"
+	"ListaTratamiento.h"
+	"ListaSesiones.h"
+
+1545346610 /home/erik/Documentos/pruebas/pruebas/src/ListaTratamiento.h
+	"NodoTratamiendo.h"
+	<list>
+
+1545017108 /home/erik/Documentos/pruebas/pruebas/src/NodoTratamiendo.h
+	<string>
+
+1545544885 source:/home/erik/Documentos/pruebas/pruebas/src/MatrizOrtogonal.cpp
+	"MatrizOrtogonal.h"
+	<iostream>
+
+1545614283 source:/home/erik/Documentos/pruebas/pruebas/src/NodoTratamiendo.cpp
+	"NodoTratamiendo.h"
+
+1545008946 source:/home/erik/Documentos/pruebas/pruebas/src/NodoUsuario.cpp
+	"NodoUsuario.h"
+
+1545623724 source:/home/erik/Documentos/pruebas/pruebas/src/ListaTratamiento.cpp
+	"ListaTratamiento.h"
+	<iostream>
+	<string>
+
+1545344322 source:/home/erik/Documentos/pruebas/pruebas/src/toBase64.cpp
+	"toBase64.h"
+
+1545344322 /home/erik/Documentos/pruebas/pruebas/src/toBase64.h
+
+1545432749 source:/home/erik/Documentos/pruebas/pruebas/src/ListaSesiones.cpp
+	"ListaSesiones.h"
+	<string>
+
+1545430348 /home/erik/Documentos/pruebas/pruebas/src/ListaSesiones.h
+	<string>
+
